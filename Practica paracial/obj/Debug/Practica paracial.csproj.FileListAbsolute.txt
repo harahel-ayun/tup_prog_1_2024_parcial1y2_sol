@@ -1,0 +1,11 @@
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\bin\Debug\Practica paracial.exe.config
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\bin\Debug\Practica paracial.exe
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\bin\Debug\Practica paracial.pdb
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica paracial.csproj.AssemblyReference.cache
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica_paracial.Fagregar.resources
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica_paracial.Form1.resources
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica_paracial.Properties.Resources.resources
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica paracial.csproj.GenerateResource.cache
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica paracial.csproj.CoreCompileInputs.cache
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica paracial.exe
+C:\Users\harah\OneDrive\Documentos\repos visual studio facu\Paracial2\Practica paracial\obj\Debug\Practica paracial.pdb
